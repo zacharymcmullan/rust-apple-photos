@@ -9,5 +9,5 @@ license = "MIT"
 [dependencies]
 time = "0.1.42"
     [dependencies.rusqlite]
-        version = "0.18.0"
+        version = "0.36.0"
         features = ["blob"]
